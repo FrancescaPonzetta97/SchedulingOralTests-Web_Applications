@@ -1,0 +1,109 @@
+.vheight-100{
+    min-height: 100vh;
+}
+.title{
+    width:30%;
+    margin-left: 45%;
+}
+
+.below-nav{
+    padding-top: 50px;
+   
+}
+
+.home-button{
+    height: 100px;
+    width : 130px;
+    margin-left: 200px;
+    margin-top: 100px;
+    background-color:#66a3ff;
+}
+.wrapper{
+    text-align: center;
+}
+
+.form-wrapper{
+    padding-top: 15px;
+    display:inline-block;
+}
+.form-title{
+    text-align: center;
+   
+}
+
+.teacher-navbar{
+    background-color:  #66a3ff;
+    
+}
+.my-button{
+    background-color:#66a3ff;
+}
+.button-group{
+    padding-top: 100px;
+    width: 50;
+}
+
+.list-group-item{
+    user-select: none;
+}
+
+
+.student-navbar{
+    background-color:  #00b359;
+    
+}
+
+
+.button-group-student{
+    padding-top: 100px;
+    width: 50;
+}
+.table-list{
+    width: 220px;
+    border-style: double;
+}
+
+.courses-table{
+    width: 180px;
+    align-content: left;
+}
+
+
+.teacher-title{
+    justify-content: center;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color:#ffffff;
+}
+
+.student-home-row{
+    display:table-row;
+    height:50%;
+}
+
+.nav{
+    background-color:  #66a3ff;
+}
+
+.custom-select {
+    position: relative;
+    font-family: Arial;
+  }
+  
+  .custom-select select {
+    display: none; /*hide original SELECT element: */
+  }
+
+  
+  /* Style the arrow inside the select element: */
+  .select-selected:after {
+    position: absolute;
+    content: "";
+    top: 14px;
+    right: 10px;
+    width: 0;
+    height: 0;
+    border: 6px solid transparent;
+    border-color: #fff transparent transparent transparent;
+  }
